@@ -1,0 +1,12 @@
+Item,Shelf,X,Y
+Milk,A1,0,0
+Bread,A2,0,1
+Rice,A3,0,2
+Oil,B1,1,0
+Eggs,B2,1,1
+Sugar,B3,1,2
+Tea,C1,2,0
+Coffee,C2,2,1
+Juice,C3,2,2
+Biscuits,D1,3,0
+Butter,D2,3,1
