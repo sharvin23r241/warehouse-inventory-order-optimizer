@@ -7,6 +7,9 @@ This project is a Python-based warehouse inventory and order optimizer. It reads
 I developed this project to improve my understanding of Python programming, file handling, dictionaries, and basic warehouse logistics while building a simple real-world application.
 
 ---
+## Project Screenshot
+
+![Warehouse Order Optimizer](images/output.png)
 
 ## Features
 
